@@ -1,6 +1,6 @@
 import os, shutil
 
-path = 'C:/Users/dengu/Downloads'
+path = 'C:/Users/username/example'
 
 try:
     os.mkdir(path + '/Music')
